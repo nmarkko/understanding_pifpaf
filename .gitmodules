@@ -1,0 +1,3 @@
+[submodule "openpifpaf"]
+	path = openpifpaf
+	url = https://github.com/openpifpaf/openpifpaf
